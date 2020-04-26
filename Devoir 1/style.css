@@ -1,0 +1,18 @@
+body
+  {
+	background-color: #ffd6d6;
+  }
+table
+{
+	background:linear-gradient(to right, #99ffcc 0%, #ffccff 100%);
+	margin-left:auto;
+	margin-right:auto;
+	width:1200;
+	height:1200;
+}
+h1
+{
+	color:red;
+	font-family:"Lobster";
+}
+  
